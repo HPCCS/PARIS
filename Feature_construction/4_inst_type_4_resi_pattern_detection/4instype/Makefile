@@ -8,7 +8,6 @@ CFLAGS = -std=c++11 -O3
 #LDFLAGS+=-L/g/g90/guo7/graphviz/lib -lgvc -lcgraph  -lcdt
 CLINK = ${CC} 
 #CLINKFLAGS = -g 
-#MY_LIB=/opt/pasa_lib/graphviz-2.40/lib/pkgconfig
 
 SRCS = main.cpp  4instype_detect.cpp
 
