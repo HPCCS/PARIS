@@ -1,0 +1,7 @@
+export OMP_NUM_THREADS=16
+
+export TRACE_BACK_THRED=100
+
+export NUM_SELF_ADD=500
+
+export BATCH_SIZE=1000
