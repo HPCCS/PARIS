@@ -1,5 +1,4 @@
 # PARIS
-# PARIS: Predicting Application Resilience
 
 The traditional method to study application resilience to errors in HPC applications uses fault injection (FI), a time-consuming approach. While analytical models have been built to overcome the inefficiencies of FI, they lack accuracy. In this paper, we present PARIS, a machine-learning method to predict application resilience that avoids the time-consuming process of random FI and provides higher prediction accuracy than analytical models. PARIS captures the implicit relationship between application characteristics and application resilience, which is difficult to capture using most analytical models.
 
